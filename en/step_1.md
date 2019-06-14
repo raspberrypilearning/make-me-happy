@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk) to make a character that reacts to what you say. If you say something kind, it will smile. If you say something mean, it will cry.
+In this project you will use [machinelearningforkids.co.uk](machinelearningforkids.co.uk){:target="_blank"} to make a character that reacts to what you say. If you say something kind, it will smile. If you say something mean, it will cry.
 To start with, you’ll program a list of rules for understanding messages, and learn why that approach isn’t very good.
 Next, you will teach the computer to recognise messages as kind or mean by giving it examples of each.
 
