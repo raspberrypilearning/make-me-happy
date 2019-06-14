@@ -1,11 +1,17 @@
-title: make-me-happy
+title: Make me Happy
 hero_image: images/banner.png
-description: make-me-happy description
+description: Create a character that reacts to what you say
 version: 4
 listed: false
 copyedit: false
-last_tested: "2019-06-14"
+last_tested: "2019-05-09"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Creating a project and sprite costumes
+  - title: Using a list of rules
+  - title: Collect examples for your machine learning model
+  - title: Training and testing your machine learning model
+  - title: Using your machine learning model in Scratch
+  - title: "Challenge: more characters and emotions"
+    challenge: true
   - title: What next?
