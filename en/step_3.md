@@ -31,4 +31,3 @@ end
 You’ve created a character that should react to what people type, and programmed it using a simple rules-based approach.
 If you want it to react to other messages, you need to add more **if** blocks.
 The problem with this is that you need to predict exactly what messages the character will receive. Making a list of every possible message would take forever!
-Next, we’ll try a better approach – teaching the computer to recognise messages for itself.

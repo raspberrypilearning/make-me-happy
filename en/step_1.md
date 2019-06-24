@@ -44,7 +44,7 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/make-me-happy/print){:target="_blank"}.
 
-[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go).
+[Here is a link to the resources for this project -TODO-](http://rpf.io/project-name-go){:target="_blank"}.
 
 --- /collapse ---
 

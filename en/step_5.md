@@ -1,5 +1,7 @@
 ## Training and testing your machine learning model
 
+In this step you will train your machine to recognise whether your message is a compliment or an insult and automatically put it in one of the 2 buckets based on the examples you have added.
+
 --- task ---
 + Click on the **< Back to project** link, then click **Learn & Test**
 

@@ -1,5 +1,7 @@
 ## Collect examples for your machine learning model
 
+Next, we’ll try a better approach – teaching the computer to recognise messages for itself.
+
 --- task ---
 + Close the Scratch window and go back to the Training tool.
 
@@ -34,4 +36,3 @@ title: Tips for selecting good examples
 --- /collapse ---
 --- /task ---
 
-In the next step you will train your machine to recognise whether your message is a compliment or an insult and automatically put it in one of the 2 buckets based on the examples you have added.
